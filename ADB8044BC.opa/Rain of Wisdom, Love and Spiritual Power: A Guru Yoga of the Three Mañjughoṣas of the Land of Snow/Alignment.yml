@@ -1,0 +1,19 @@
+segment_sources:
+  P00D50E40:
+    type: origin_type
+    relation: translation
+    language: en
+  P852E772D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a69a299555404da9ac146a699ced5db0:
+    P00D50E40: 610d0d4e795e4a05b01d823bf4c3a5d8
+    P852E772D: f7e40475e83d4d21b41bf6f92be640af
+  2132ab7f470440cd9eb634c79e5f1687:
+    P00D50E40: af975103850b45948ea8277b5bd14c2b
+    P852E772D: c3f66bb297fe4bb6b892d5184ad957c2
+  2fa80e430f8b45b68aa0452dcef8a8a2:
+    P00D50E40: a4575e75799949cc9ba81e6fa806ffc9
+    P852E772D: 9d304b83d007453db0741cc1a291f0c4
